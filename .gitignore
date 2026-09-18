@@ -1,0 +1,18 @@
+# scraped output — contains contact details, never commit
+data/
+*.csv
+*.txt
+!requirements*.txt
+
+# local-only
+private/
+.env
+.env.*
+.claude/
+
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/

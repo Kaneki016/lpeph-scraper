@@ -10,7 +10,7 @@ Scrapes the public firm registry of the **Lembaga Penilai, Pentaksir, Ejen Harta
 ## Install
 
 ```bash
-git clone <repo-url> && cd lpeph-scraper
+git clone https://github.com/Kaneki016/lpeph-scraper && cd lpeph-scraper
 pip install -e .
 ```
 
